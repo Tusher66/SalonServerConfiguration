@@ -1,7 +1,7 @@
 
-spring:
-  application:
-    name: Congif-Prod
+# spring:
+#   application:
+#     name: Congif-Prod
 eureka:
   instance:
     prefer-ip-address: true
