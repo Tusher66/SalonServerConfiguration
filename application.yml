@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: Congif-Defult
+# spring:
+#   application:
+#     name: Congif-Defult
 eureka:
   instance:
     prefer-ip-address: true
